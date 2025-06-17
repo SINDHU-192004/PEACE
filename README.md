@@ -1,4 +1,4 @@
-# 🧠 PEACE – Healthcare Meets Mental Wellness
+#  PEACE – Healthcare Meets Mental Wellness
 
 **Track:** Healthcare for All  
 **Team:** CODE wAt
@@ -7,19 +7,19 @@ PEACE is a virtual mental healthcare platform designed to ensure accessibility, 
 
 ---
 
-## 🚀 Features
+##  Features
 
-- **🧘‍♀️ Virtual Chatbot** – Real-time support using **LLaMA 3.1**, available 24/7 for immediate mental health guidance.
-- **🎙️ Voice Interaction** – Chatbot voice interaction powered by **p5.js** for a more natural and comforting experience.
-- **😊 Emotion Detection** – **NEW!** Built with the **GoEmotions** dataset to analyze your emotional state and provide tailored responses.
-- **📈 Personalized Insights** – AI-powered analytics that track usage patterns and provide smart, data-driven wellness suggestions.
-- **📊 Progress Statistics Dashboard** – Visual stats to help users monitor their mental health journey and growth over time.
-- **👥 Community Support** – A safe space for users to connect, share, and support each other through moderated forums and discussions.
-- **💬 Affordable Consultations** – On-demand sessions with licensed professionals at low cost, making therapy more accessible.
-- **🎮 Stress-relief Games** – Relaxing and therapeutic games developed with **Phaser.js** to boost focus and resilience.
-- **🥗 Personalized Nutrition Plans** – Smart food suggestions curated to improve mood and mental well-being.
-- **🏃 Guided Exercises** – Daily wellness activities and calming routines to promote mental clarity and physical vitality.
-- **🔐 End-to-End Encryption** – Robust security ensuring all user data and conversations are kept private and protected.
+- **Virtual Chatbot** – Real-time support using **LLaMA 3.1**, available 24/7 for immediate mental health guidance.
+- **Voice Interaction** – Chatbot voice interaction powered by **p5.js** for a more natural and comforting experience.
+- **Emotion Detection** – **NEW!** Built with the **GoEmotions** dataset to analyze your emotional state and provide tailored responses.
+- **Personalized Insights** – AI-powered analytics that track usage patterns and provide smart, data-driven wellness suggestions.
+- **Progress Statistics Dashboard** – Visual stats to help users monitor their mental health journey and growth over time.
+- **Community Support** – A safe space for users to connect, share, and support each other through moderated forums and discussions.
+- **Affordable Consultations** – On-demand sessions with licensed professionals at low cost, making therapy more accessible.
+- **Stress-relief Games** – Relaxing and therapeutic games developed with **Phaser.js** to boost focus and resilience.
+- **Personalized Nutrition Plans** – Smart food suggestions curated to improve mood and mental well-being.
+- **Guided Exercises** – Daily wellness activities and calming routines to promote mental clarity and physical vitality.
+- **End-to-End Encryption** – Robust security ensuring all user data and conversations are kept private and protected.
   
 ---
 
@@ -35,7 +35,7 @@ PEACE is a virtual mental healthcare platform designed to ensure accessibility, 
 
 ---
 
-## 🧪 How to Run
+## How to Run
 
 ### Quick Start with Setup Script
 
@@ -109,19 +109,19 @@ cd chatbot
 streamlit run app.py
 ```
 
-## 🔐 API Key
+##  API Key
 * To use the OpenRouter integration, generate your key here:  👉 https://openrouter.ai/settings/keys
 
 * Or use this key for testing: c86f97014f5a60d01e85903a5f2a7a7989b1628f.
 
-## 👨‍💻 Team Members
+##  Team Members
 
-*SINDHU.T
+**SINDHU.T**
 *MADHUSUDHAN.S
 *SWAROOP.S
 *DIPESH.K
 
-## 📝 Credits and Acknowledgements
+## Credits and Acknowledgements
 
 * **GoEmotions Dataset**: Developed by Google Research, containing 58k Reddit comments with annotations for 27 emotion categories and Neutral.
 
